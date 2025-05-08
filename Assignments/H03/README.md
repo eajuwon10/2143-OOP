@@ -10,12 +10,12 @@ clearer hierarchy of types. This assignment focuses on why and how to use inheri
 
 ### Files
 
-|   #   | File               | Description                                        |
-| :---: | ------------------ | -------------------------------------------------- |
-|   1   | inheritance.cpp    | Minimal Coding Example.                            |
-|   2   | Inheritance.pdf    | Conceptual questions and reflection.               |
+|   #   | File                                    | Description                                        |
+| :---: | --------------------------------------- | -------------------------------------------------- |
+|   1   | [inheritance.cpp](./inheritance.cpp)    | Minimal Coding Example.                            |
+|   2   | Inheritance.pdf    | Conceptual questions and reflection.                                    |
 
 ### Instructions
 
-- Make sure you download `inheritance.cpp`
+- Make sure you download [inheritance.cpp](./inheritance.cpp)
 - Also download `Inheritance.pdf` 

@@ -13,8 +13,8 @@ understanding by allowing you to apply what you’ve learned in a practical cont
 
 ### Files
 
-|   #   | File               | Description                                        |
-| :---: | ------------------ | -------------------------------------------------- |
+|   #   | File                                        | Description                                        |
+| :---: | ------------------------------------------- | -------------------------------------------------- |
 |   1   | [classes&Objects.cpp](./classes&Objects.cpp)| Minimal Coding Example.                            |
 |   2   | [Classes&Objects.pdf](./Classes&Objects.pdf)| Conceptual questions and reflection.               |
 
