@@ -15,10 +15,12 @@ understanding by allowing you to apply what you’ve learned in a practical cont
 
 |   #   | File               | Description                                        |
 | :---: | ------------------ | -------------------------------------------------- |
-|   1   | classes&Objects.cpp| Minimal Coding Example.                            |
-|   2   | Classes&Objects.pdf| Conceptual questions and reflection.               |
+|   1   | [classes&Objects.cpp](./classes&Objects.cpp)| Minimal Coding Example.                            |
+|   2   | [Classes&Objects.pdf](./Classes&Objects.pdf)| Conceptual questions and reflection.               |
+
+
 
 ### Instructions
 
-- Make sure you download `classes&Objects.cpp`
-- Also download `Classes&Object.pdf` 
+- Make sure you download [classes&Objects.cpp](./classes&Objects.cpp)
+- Also download [Classes&Objects.pdf](./Classes&Objects.pdf) 
