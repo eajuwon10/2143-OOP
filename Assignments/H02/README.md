@@ -20,3 +20,5 @@ between the class and the outside world.
 
 - Make sure you download `encapsulation.cpp`
 - Also download `Encapsulation.pdf` 
+
+eof
